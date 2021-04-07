@@ -1,0 +1,2 @@
+C:\Users\pc\source\repos\210ctResit\x64\Debug\210ctResit.exe
+C:\Users\pc\source\repos\210ctResit\x64\Debug\210ctResit.pdb
